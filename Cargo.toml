@@ -9,6 +9,8 @@ edition = "2021"
 anyhow = "1.0.63"
 bytes = "1.2"
 clap = { version = "3.2.20", features = ["derive"] }
+log = "0.4.17"
+pretty_env_logger = "0.4.0"
 prost = "0.11"
 prost-types = "0.11"
 
